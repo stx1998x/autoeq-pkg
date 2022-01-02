@@ -14,7 +14,7 @@ setup(
     platforms=['any'],
     keywords=['headphones', 'equalization'],
     install_requires=[
-        'Pillow~=7.2.0',
+        'Pillow~=8.4.0',
         'matplotlib~=3.3.3',
         'pandas~=1.2.0',
         'scipy~=1.5.4',
